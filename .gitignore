@@ -19,25 +19,10 @@ ui-debug.log
 node_modules
 
 # Build dirs
-.next
-build
-dist
 
 # Generated files
 .docusaurus
 .cache-loader
-packages/next-auth/providers
-packages/next-auth/src/providers/oauth-types.ts
-packages/next-auth/client
-packages/next-auth/css
-packages/next-auth/utils
-packages/next-auth/core
-packages/next-auth/jwt
-packages/next-auth/react
-packages/next-auth/next
-packages/*/*.js
-packages/*/*.d.ts
-packages/*/*.d.ts.map
 
 # Development app
 apps/dev/src/css
@@ -78,10 +63,6 @@ docs/.docusaurus
 docs/providers.json
 
 # Core
-packages/core/src/providers/oauth-types.ts
-packages/core/lib
-packages/core/providers
-packages/core/src/lib/pages/styles.ts
 docs/docs/reference/core
 docs/docs/reference/sveltekit
 
