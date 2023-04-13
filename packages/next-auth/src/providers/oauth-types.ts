@@ -41,6 +41,7 @@ export type OAuthProviderType =
   | "medium"
   | "naver"
   | "netlify"
+  | "oauth-types"
   | "oauth"
   | "okta"
   | "onelogin"
